@@ -1,0 +1,52 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Uploads directory (optional: keep structure)
+uploads/lost/*
+uploads/found/*
+!uploads/lost/.gitkeep
+!uploads/found/.gitkeep
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Vite build output
+frontend/dist/
+frontend/.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python eggs
+*.egg-info/
+dist/
+build/
