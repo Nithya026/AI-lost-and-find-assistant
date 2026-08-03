@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Lost & Found Assistant
 
 <div align="center">
@@ -323,3 +324,6 @@ This project is developed as an educational AI application demonstration.
 <div align="center">
 Built with ❤️ using <strong>Antigravity AI</strong> · FastAPI · React · FAISS · Sentence Transformers
 </div>
+=======
+# AI-lost-and-find-assistant
+>>>>>>> ea98df025a1701d5f359b2203512c044e0416ffa
